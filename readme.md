@@ -69,7 +69,7 @@ Modern Asterisk versions (21+) have completely removed `chan_sip`, so you **must
 > 
 > **Important Notes:**
 > * It is recommended to visit the official Asterisk and UseCallManager GitHub pages to ensure you are downloading the correct, most up-to-date, and supported versions for your environment.
-> * The author of this repository has only tested this process with Asterisk version `20.15.12`.
+> * I have only tested this process with Asterisk version `20.15.12`.
 
 ---
 
