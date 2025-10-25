@@ -2,6 +2,8 @@
 
 This repository contains a small collection of firmware, some exmple configuration files to make various models of Cisco IP phones work with an Asterisk-based PBX, particularly FreePBX.
 
+> Self-Promo: [Setup the Cisco 7911 using chan_pjsip and a TFTP Server for this and the other phones. (Click to open my blog post!)](https://pintobernardo.wordpress.com/2025/06/15/setting-up-cisco-7911-for-freepbx-asterisk-sip/)
+
 ---
 
 ## Repository Contents
