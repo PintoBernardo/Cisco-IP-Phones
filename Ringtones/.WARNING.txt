@@ -1,0 +1,8 @@
+------------------------
+
+⚠️ This Files MUST be copy to the ROOT DIRECTORY of your TFTP server! If not the phones will not find the ringtones even if the path is correct on the ringlist.xml!
+⚠️ All files but be at .raw!
+
+------------------------
+
+# More Info: https://usecallmanager.nz/ring-list-xml.html

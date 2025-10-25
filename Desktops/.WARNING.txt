@@ -1,0 +1,5 @@
+------------------------
+
+⚠️ This FOLDER MUST be copy to the ROOT DIRECTORY of your TFTP server!
+
+------------------------

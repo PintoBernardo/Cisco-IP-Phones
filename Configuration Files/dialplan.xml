@@ -1,0 +1,24 @@
+<DIALTEMPLATE>
+    <versionStamp>e68d54c1-0354-4b1a-aca4-adffc4b7de2f</versionStamp>
+    <TEMPLATE MATCH="112" Timeout="0"/> <!-- Call 911 immediately -->
+    <TEMPLATE MATCH="9[1236]XXXXXXX" Timeout="0"/> 
+    <TEMPLATE MATCH="2XXXXXXXX" Timeout="0"/> 
+    <TEMPLATE MATCH="[378]XXXXXXXX" Timeout="0"/>
+    <TEMPLATE MATCH="00*" Timeout="5"/> 
+    <TEMPLATE MATCH="\*XX" Timeout="0"/>
+    <TEMPLATE MATCH="\*XXX" Timeout="0"/>
+    <TEMPLATE MATCH="\*XXXX" Timeout="0"/>
+    <TEMPLATE MATCH="\*\*XX" Timeout="0"/>
+    <TEMPLATE MATCH="\*\*XXX" Timeout="0"/>
+    <TEMPLATE MATCH="\*\*XXXX" Timeout="0"/>
+    <TEMPLATE MATCH="[1-9]XXX" Timeout="0"/> 
+    <TEMPLATE MATCH="*" Timeout="5"/> 
+</DIALTEMPLATE>
+
+<!-- 
+
+⚠️ This is a Portugues Dial Plan!
+
+# More Info: https://usecallmanager.nz/dial-template-xml.html
+
+-->

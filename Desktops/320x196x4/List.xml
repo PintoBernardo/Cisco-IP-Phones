@@ -1,0 +1,12 @@
+<CiscoIPPhoneImageList>
+	<ImageItem Image="TFTP:Desktops/320x196x4/.png" URL="TFTP:Desktops/320x196x4/.png"/></CiscoIPPhoneImageList>
+</CiscoIPPhoneImageList>
+
+<!--
+Image = Path for the preview image of the backgroud.
+URL = Phone backgroud path.
+
+Model							Type			Width	Height	Depth	Preview Width	Preview Height	Directory
+7941, 7961, 7942, 7962			Greyscale		320		196		4			80				53			Desktops/320x196x4
+
+-->

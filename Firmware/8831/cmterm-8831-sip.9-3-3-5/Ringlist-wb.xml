@@ -1,0 +1,26 @@
+<CiscoIPPhoneRingList>
+	<Ring>
+		<DisplayName>Hope</DisplayName>
+		<FileName>Busy_Hope.rwb</FileName>
+	</Ring>
+	<Ring>
+		<DisplayName>Leaves</DisplayName>
+		<FileName>InRoom_Leaves.rwb</FileName>
+	</Ring>
+	<Ring>
+		<DisplayName>Dreams</DisplayName>
+		<FileName>Mobile_Dreams.rwb</FileName>
+	</Ring>
+	<Ring>
+		<DisplayName>Secret</DisplayName>
+		<FileName>Mobile_Secret.rwb</FileName>
+	</Ring>
+	<Ring>
+		<DisplayName>Discreet</DisplayName>
+		<FileName>OpenPlan_Discreet.rwb</FileName>
+	</Ring>
+        <Ring>
+		<DisplayName>Cloud</DisplayName>
+		<FileName>OpenPlan_Cloud.rwb</FileName>
+	</Ring>
+</CiscoIPPhoneRingList>
